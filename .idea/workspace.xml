@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46e07cb9-e57f-4351-8c81-a572d717cfc8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/node/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/node/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/21. Merge Two Sorted Lists" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -123,10 +124,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="436" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1604720344230" />
-    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1604727340954">
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1604727687368">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604727340954" />
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604727687368" />
     <state width="585" height="466" key="DebuggerActiveHint" timestamp="1604719935195">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -171,14 +172,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="261" y="32" width="917" height="606" key="Registry/0.0.1440.900@0.0.1440.900" timestamp="1604718999229" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1604726919222">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1604727751838">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604726919222" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604727344493">
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604727751838" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1604727690471">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604727344493" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1604727690471" />
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604727308875">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
