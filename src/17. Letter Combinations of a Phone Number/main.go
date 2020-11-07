@@ -12,8 +12,7 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 func main() {
 	//primes := []string{"2", "3", "5", "7", "11", "13"}
 	//
-	//var s []string = primes[1:4]
-	//fmt.Println(s)
+	//var s?t.Println(s)
 	letterCombinations("23")
 }
 
