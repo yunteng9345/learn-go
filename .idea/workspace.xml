@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46e07cb9-e57f-4351-8c81-a572d717cfc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/learn-go.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/node/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/17. Letter Combinations of a Phone Number/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/17. Letter Combinations of a Phone Number/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/21. Merge Two Sorted Lists/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/21. Merge Two Sorted Lists/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jwQn4IE82ax7BEWpmXBOnKAw9Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/21. Merge Two Sorted Lists" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/21. Merge Two Sorted Lists" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ListNode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (3)">
+    <configuration name="go build ListNode.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learn-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/ListNode/ListNode.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learn-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/1. Two Sum/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learn-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/ListNode/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learn-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/21. Merge Two Sorted Lists/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learn-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (3)" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build ListNode.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="1440" height="900" key="#Vim_Emulation" timestamp="1604715779860">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="1440" height="900" key="#Vim_Emulation/0.0.1440.900@0.0.1440.900" timestamp="1604715779860" />
+    <state x="184" y="112" width="1071" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604717415164">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1604717415164" />
+    <state x="436" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604720344230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="436" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1604720344230" />
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1604719995327">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604719995327" />
+    <state width="585" height="466" key="DebuggerActiveHint" timestamp="1604719935195">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="585" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1604719935195" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1604717457660">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1604717457660" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1604726866676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604726866676" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1604726866676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604726866676" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1604726866675">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604726866675" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1604726866676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604726866676" />
+    <state width="1398" height="206" key="GridCell.Tab.1.bottom" timestamp="1604726866565">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604726866565" />
+    <state width="1398" height="206" key="GridCell.Tab.1.center" timestamp="1604726866565">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1604726866565" />
+    <state width="1398" height="206" key="GridCell.Tab.1.left" timestamp="1604726866564">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1604726866564" />
+    <state width="1398" height="206" key="GridCell.Tab.1.right" timestamp="1604726866565">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1604726866565" />
+    <state x="261" y="32" width="917" height="606" key="Registry" timestamp="1604718999229">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="261" y="32" width="917" height="606" key="Registry/0.0.1440.900@0.0.1440.900" timestamp="1604718999229" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1604726919222">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604726919222" />
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604727308875">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1604727308875" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1604719029757">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1604719029757" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
