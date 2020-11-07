@@ -47,6 +47,7 @@ func Print(listNode *ListNode) {
 		buffer.WriteString(value)
 		temp = temp.Next
 	}
+
 	buffer.WriteString("]")
 	fmt.Println(buffer.String())
 }
