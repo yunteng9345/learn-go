@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed78652c-38eb-47c8-964b-dd7063495e8f" name="Default Changelist" comment="go go go">
-      <change afterPath="$PROJECT_DIR$/src/1431. Kids With the Greatest Number of Candies/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1480. Running Sum of 1d Array/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1512. Number of Good Pairs/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +72,14 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/21. Merge Two Sorted Lists" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ListNode" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/21. Merge Two Sorted Lists" />
+    </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (5)">
+  <component name="RunManager" selected="Go Build.go build main.go (2)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="learn-go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -88,11 +88,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="learn-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/21. Merge Two Sorted Lists/main.go" />
+      <filePath value="$PROJECT_DIR$/src/1512. Number of Good Pairs/main.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (5)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build main.go (4)" />
-        <item itemvalue="Go Build.go build main.go (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -185,46 +185,46 @@
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state x="646" y="224" key="FileChooserDialogImpl/62.0.1986.1152@62.0.1986.1152" timestamp="1604991167252" />
-    <state width="1943" height="408" key="GridCell.Tab.0.bottom" timestamp="1604998374121">
+    <state width="1943" height="375" key="GridCell.Tab.0.bottom" timestamp="1604998578447">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state width="1398" height="327" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604727657207" />
-    <state width="1943" height="408" key="GridCell.Tab.0.bottom/62.0.1986.1152@62.0.1986.1152" timestamp="1604998374121" />
-    <state width="1943" height="408" key="GridCell.Tab.0.center" timestamp="1604998374121">
+    <state width="1943" height="375" key="GridCell.Tab.0.bottom/62.0.1986.1152@62.0.1986.1152" timestamp="1604998578447" />
+    <state width="1943" height="375" key="GridCell.Tab.0.center" timestamp="1604998578446">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state width="1398" height="327" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604727657205" />
-    <state width="1943" height="408" key="GridCell.Tab.0.center/62.0.1986.1152@62.0.1986.1152" timestamp="1604998374121" />
-    <state width="1943" height="408" key="GridCell.Tab.0.left" timestamp="1604998374121">
+    <state width="1943" height="375" key="GridCell.Tab.0.center/62.0.1986.1152@62.0.1986.1152" timestamp="1604998578446" />
+    <state width="1943" height="375" key="GridCell.Tab.0.left" timestamp="1604998578446">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state width="1398" height="327" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604727657205" />
-    <state width="1943" height="408" key="GridCell.Tab.0.left/62.0.1986.1152@62.0.1986.1152" timestamp="1604998374121" />
-    <state width="1943" height="408" key="GridCell.Tab.0.right" timestamp="1604998374121">
+    <state width="1943" height="375" key="GridCell.Tab.0.left/62.0.1986.1152@62.0.1986.1152" timestamp="1604998578446" />
+    <state width="1943" height="375" key="GridCell.Tab.0.right" timestamp="1604998578447">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state width="1398" height="327" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604727657206" />
-    <state width="1943" height="408" key="GridCell.Tab.0.right/62.0.1986.1152@62.0.1986.1152" timestamp="1604998374121" />
-    <state width="1943" height="408" key="GridCell.Tab.1.bottom" timestamp="1604998375051">
+    <state width="1943" height="375" key="GridCell.Tab.0.right/62.0.1986.1152@62.0.1986.1152" timestamp="1604998578447" />
+    <state width="1943" height="375" key="GridCell.Tab.1.bottom" timestamp="1604998578447">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state width="1398" height="327" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604727657208" />
-    <state width="1943" height="408" key="GridCell.Tab.1.bottom/62.0.1986.1152@62.0.1986.1152" timestamp="1604998375051" />
-    <state width="1943" height="408" key="GridCell.Tab.1.center" timestamp="1604998375051">
+    <state width="1943" height="375" key="GridCell.Tab.1.bottom/62.0.1986.1152@62.0.1986.1152" timestamp="1604998578447" />
+    <state width="1943" height="375" key="GridCell.Tab.1.center" timestamp="1604998578447">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state width="1398" height="327" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1604727657208" />
-    <state width="1943" height="408" key="GridCell.Tab.1.center/62.0.1986.1152@62.0.1986.1152" timestamp="1604998375051" />
-    <state width="1943" height="408" key="GridCell.Tab.1.left" timestamp="1604998375051">
+    <state width="1943" height="375" key="GridCell.Tab.1.center/62.0.1986.1152@62.0.1986.1152" timestamp="1604998578447" />
+    <state width="1943" height="375" key="GridCell.Tab.1.left" timestamp="1604998578447">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state width="1398" height="327" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1604727657207" />
-    <state width="1943" height="408" key="GridCell.Tab.1.left/62.0.1986.1152@62.0.1986.1152" timestamp="1604998375051" />
-    <state width="1943" height="408" key="GridCell.Tab.1.right" timestamp="1604998375051">
+    <state width="1943" height="375" key="GridCell.Tab.1.left/62.0.1986.1152@62.0.1986.1152" timestamp="1604998578447" />
+    <state width="1943" height="375" key="GridCell.Tab.1.right" timestamp="1604998578447">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state width="1398" height="327" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1604727657208" />
-    <state width="1943" height="408" key="GridCell.Tab.1.right/62.0.1986.1152@62.0.1986.1152" timestamp="1604998375051" />
+    <state width="1943" height="375" key="GridCell.Tab.1.right/62.0.1986.1152@62.0.1986.1152" timestamp="1604998578447" />
     <state x="261" y="32" width="917" height="606" key="Registry" timestamp="1604718999229">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -252,13 +252,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/src/1431. Kids With the Greatest Number of Candies/main.go</url>
-          <line>27</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="DlvErrorBreakpoint" />
       </default-breakpoints>
