@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed78652c-38eb-47c8-964b-dd7063495e8f" name="Default Changelist" comment="go go go">
-      <change afterPath="$PROJECT_DIR$/src/1365. 有多少小于当前数字的数字/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1389. 按既定顺序创建目标数组/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1614. 括号的最大嵌套深度/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1295. 统计位数为偶数的数字/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:/Go" />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
@@ -46,7 +44,7 @@
   <component name="GoLibraries">
     <option name="urls">
       <list>
-        <option value="file://$PROJECT_DIR$/../../learn-code/learn-go" />
+        <option value="file://$USER_HOME$/learn-code/learn-go" />
       </list>
     </option>
   </component>
@@ -153,10 +151,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="go go go" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="848" y="506" key="#GOROOT" timestamp="1606705612114">
-      <screen x="62" y="0" width="1986" height="1152" />
+    <state x="570" y="369" key="#GOROOT" timestamp="1607094269752">
+      <screen x="0" y="25" width="1440" height="784" />
     </state>
     <state x="570" y="395" key="#GOROOT/0.0.1440.900@0.0.1440.900" timestamp="1605966409444" />
+    <state x="570" y="369" key="#GOROOT/0.25.1440.784@0.25.1440.784" timestamp="1607094269752" />
     <state x="848" y="506" key="#GOROOT/62.0.1986.1152@62.0.1986.1152" timestamp="1606705612114" />
     <state x="0" y="0" width="1440" height="900" key="#Vim_Emulation" timestamp="1604715779860">
       <screen x="0" y="0" width="1440" height="900" />
