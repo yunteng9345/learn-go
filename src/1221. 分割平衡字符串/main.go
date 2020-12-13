@@ -3,16 +3,23 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(balancedStringSplit("RLRRLLRLRL"))
+	fmt.Println(balancedStringSplit("RLLLLRRRLR"))
 }
 
+var res int
+
 func balancedStringSplit(s string) int {
-	res := 1
-	for i := range s {
-		if i > 0 && s[i] != s[i-1] {
-			res++
+	var index int
+	for i := 0; i < len(s); i++ {
+		temp := s[0]
+		if temp != s[i] {
+			index = 2*i - 1
+			break
 		}
 	}
-	fmt.Println("hello")
+	if len(s) != 0 {
+		res++
+		balancedStringSplit(s[index+1:])
+	}
 	return res
 }
