@@ -69,14 +69,14 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors..ignore files" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/ListNode" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/21. Merge Two Sorted Lists" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ListNode" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build main.go (1)">
@@ -96,11 +96,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="learn-go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/1588. 所有奇数长度子数组的和/main.go" />
+      <filePath value="$PROJECT_DIR$/src/1528. 重新排列字符串/main.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -235,7 +235,7 @@
     </state>
     <state width="1398" height="255" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607737729059" />
     <state width="1398" height="246" key="GridCell.Tab.1.right/0.25.1440.784@0.25.1440.784" timestamp="1606618870222" />
-    <state width="1943" height="334" key="GridCell.Tab.1.right/62.0.1986.1152@62.0.1986.1152" timestamp="1607411783433" />
+    <state width="1943" height="351" key="GridCell.Tab.1.right/62.0.1986.1152@62.0.1986.1152" timestamp="1607670807252" />
     <state x="144" y="90" key="MergeDialog" timestamp="1605966431031">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -244,21 +244,29 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="261" y="32" width="917" height="606" key="Registry/0.0.1440.900@0.0.1440.900" timestamp="1604718999229" />
-    <state x="367" y="114" key="SettingsEditor" timestamp="1607347412701">
+    <state x="367" y="114" key="SettingsEditor" timestamp="1607433257991">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604727751838" />
-    <state x="367" y="114" key="SettingsEditor/62.0.1986.1152@62.0.1986.1152" timestamp="1607347412701" />
-    <state x="503" y="243" key="Vcs.Push.Dialog.v2" timestamp="1607347260391">
+    <state x="367" y="114" key="SettingsEditor/62.0.1986.1152@62.0.1986.1152" timestamp="1607433257991" />
+    <state x="503" y="243" key="Vcs.Push.Dialog.v2" timestamp="1607433264437">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607095257071" />
-    <state x="503" y="243" key="Vcs.Push.Dialog.v2/62.0.1986.1152@62.0.1986.1152" timestamp="1607347260391" />
+    <state x="503" y="243" key="Vcs.Push.Dialog.v2/62.0.1986.1152@62.0.1986.1152" timestamp="1607433264437" />
+    <state width="503" height="579" key="XDebugger.FullValuePopup" timestamp="1607586273207">
+      <screen x="62" y="0" width="1986" height="1152" />
+    </state>
+    <state width="503" height="579" key="XDebugger.FullValuePopup/62.0.1986.1152@62.0.1986.1152" timestamp="1607586273207" />
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607258410401">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1607258410401" />
     <state x="776" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1986.1152@62.0.1986.1152" timestamp="1604977149135" />
+    <state x="895" y="334" key="refactoring.ChangeSignatureDialog" timestamp="1608263029470">
+      <screen x="62" y="0" width="1986" height="1152" />
+    </state>
+    <state x="895" y="334" key="refactoring.ChangeSignatureDialog/62.0.1986.1152@62.0.1986.1152" timestamp="1608263029470" />
     <state x="594" y="251" width="925" height="866" key="search.everywhere.popup" timestamp="1607412220593">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
