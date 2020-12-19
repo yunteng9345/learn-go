@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed78652c-38eb-47c8-964b-dd7063495e8f" name="Default Changelist" comment="go go go">
-      <change afterPath="$PROJECT_DIR$/src/1221. 分割平衡字符串/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/617. 合并二叉树/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_12_12,_09_32_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_12_12__09_32__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
@@ -68,8 +70,9 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors..ignore files" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -125,7 +128,6 @@
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build main.go (5)" />
-        <item itemvalue="Go Build.go build main.go (4)" />
         <item itemvalue="Go Build.go build main.go (2)" />
       </list>
     </recent_temporary>
@@ -152,12 +154,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="go go go" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="570" y="395" key="#GOROOT" timestamp="1607736765120">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="848" y="506" key="#GOROOT" timestamp="1608281610183">
+      <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state x="570" y="395" key="#GOROOT/0.0.1440.900@0.0.1440.900" timestamp="1607736765120" />
     <state x="570" y="369" key="#GOROOT/0.25.1440.784@0.25.1440.784" timestamp="1607094269752" />
-    <state x="848" y="506" key="#GOROOT/62.0.1986.1152@62.0.1986.1152" timestamp="1607332941376" />
+    <state x="848" y="506" key="#GOROOT/62.0.1986.1152@62.0.1986.1152" timestamp="1608281610183" />
+    <state x="848" y="409" key="#Go_Modules" timestamp="1608281606261">
+      <screen x="62" y="0" width="1986" height="1152" />
+    </state>
+    <state x="848" y="409" key="#Go_Modules/62.0.1986.1152@62.0.1986.1152" timestamp="1608281606261" />
     <state x="62" y="0" width="1986" height="1152" key="#Vim_Emulation" timestamp="1607333302782">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
@@ -244,11 +250,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="261" y="32" width="917" height="606" key="Registry/0.0.1440.900@0.0.1440.900" timestamp="1604718999229" />
-    <state x="367" y="114" key="SettingsEditor" timestamp="1607433257991">
+    <state x="367" y="114" key="SettingsEditor" timestamp="1608283496730">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604727751838" />
-    <state x="367" y="114" key="SettingsEditor/62.0.1986.1152@62.0.1986.1152" timestamp="1607433257991" />
+    <state x="367" y="114" key="SettingsEditor/62.0.1986.1152@62.0.1986.1152" timestamp="1608283496730" />
     <state x="503" y="243" key="Vcs.Push.Dialog.v2" timestamp="1607433264437">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
