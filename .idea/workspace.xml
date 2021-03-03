@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed78652c-38eb-47c8-964b-dd7063495e8f" name="Default Changelist" comment="go go go" />
+    <list default="true" id="ed78652c-38eb-47c8-964b-dd7063495e8f" name="Default Changelist" comment="go go go">
+      <change afterPath="$PROJECT_DIR$/src/1704. 判断字符串的两半是否相似/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/700. 二叉搜索树中的搜索/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Go" />
+  <component name="GOROOT" url="file:///usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
@@ -163,15 +167,30 @@
     <state x="62" y="0" width="1986" height="1152" key="#Vim_Emulation" timestamp="1607333302782">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
+    <state x="0" y="0" width="1440" height="900" key="#Vim_Emulation/0.0.1440.900@0.0.1440.900" timestamp="1604715779860" />
     <state x="62" y="0" width="1986" height="1152" key="#Vim_Emulation/62.0.1986.1152@62.0.1986.1152" timestamp="1607333302782" />
+    <state x="184" y="112" width="1071" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604717415164">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" width="1071" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1604717415164" />
     <state x="663" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608776931691">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
+    <state x="436" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1604720344230" />
     <state x="663" y="332" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1986.1152@62.0.1986.1152" timestamp="1608776931691" />
     <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1607095139026">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1607095139026" />
+    <state width="585" height="466" key="DebuggerActiveHint" timestamp="1604719935195">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="585" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1604719935195" />
+    <state x="200" y="128" width="1240" height="700" key="DiffContextDialog" timestamp="1604977281746">
+      <screen x="62" y="0" width="1986" height="1152" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1604717457660" />
+    <state x="200" y="128" key="DiffContextDialog/62.0.1986.1152@62.0.1986.1152" timestamp="1604977281746" />
     <state x="646" y="224" key="FileChooserDialogImpl" timestamp="1609935412517">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
@@ -224,16 +243,24 @@
     <state width="1398" height="255" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607737729059" />
     <state width="1398" height="246" key="GridCell.Tab.1.right/0.25.1440.784@0.25.1440.784" timestamp="1606618870222" />
     <state width="1942" height="294" key="GridCell.Tab.1.right/62.0.1986.1152@62.0.1986.1152" timestamp="1611045779274" />
+    <state x="144" y="90" key="MergeDialog" timestamp="1605966431031">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="90" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1605966431031" />
+    <state x="261" y="32" width="917" height="606" key="Registry" timestamp="1604718999229">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="261" y="32" width="917" height="606" key="Registry/0.0.1440.900@0.0.1440.900" timestamp="1604718999229" />
     <state x="367" y="114" width="1277" height="711" key="SettingsEditor" timestamp="1610525540885">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604727751838" />
     <state x="367" y="114" width="1277" height="711" key="SettingsEditor/62.0.1986.1152@62.0.1986.1152" timestamp="1610525540885" />
-    <state x="515" y="243" key="Vcs.Push.Dialog.v2" timestamp="1614751465229">
-      <screen x="78" y="0" width="1970" height="1152" />
+    <state x="503" y="243" key="Vcs.Push.Dialog.v2" timestamp="1609827362501">
+      <screen x="62" y="0" width="1986" height="1152" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607095257071" />
     <state x="503" y="243" key="Vcs.Push.Dialog.v2/62.0.1986.1152@62.0.1986.1152" timestamp="1609827362501" />
-    <state x="515" y="243" key="Vcs.Push.Dialog.v2/78.0.1970.1152@78.0.1970.1152" timestamp="1614751465229" />
     <state width="503" height="579" key="XDebugger.FullValuePopup" timestamp="1607586273207">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
@@ -242,6 +269,7 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1607258410401" />
+    <state x="776" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1986.1152@62.0.1986.1152" timestamp="1604977149135" />
     <state x="895" y="334" key="refactoring.ChangeSignatureDialog" timestamp="1608263029470">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
@@ -249,6 +277,7 @@
     <state x="594" y="251" width="925" height="866" key="search.everywhere.popup" timestamp="1608777848198">
       <screen x="62" y="0" width="1986" height="1152" />
     </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1604719029757" />
     <state x="594" y="251" width="925" height="866" key="search.everywhere.popup/62.0.1986.1152@62.0.1986.1152" timestamp="1608777848198" />
   </component>
   <component name="XDebuggerManager">
