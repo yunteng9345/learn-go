@@ -22,7 +22,6 @@
     <list default="true" id="ed78652c-38eb-47c8-964b-dd7063495e8f" name="Default Changelist" comment="go go go">
       <change afterPath="$PROJECT_DIR$/src/1704. 判断字符串的两半是否相似/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/700. 二叉搜索树中的搜索/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
